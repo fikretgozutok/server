@@ -1,0 +1,10 @@
+{
+	"server":{
+		"ipAddress":"192.168.1.100",
+		"port":123
+	},
+	"controlServer": {
+		"ipAddress":"192.168.1.112",
+		"port": 1234
+	}
+}
